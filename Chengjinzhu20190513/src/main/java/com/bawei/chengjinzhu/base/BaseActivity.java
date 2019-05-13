@@ -1,8 +1,13 @@
-package com.bawei.chengjinzhu;
+package com.bawei.chengjinzhu.base;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+
+/*作者:程金柱
+ *时间:2019年5月13日09:20:27
+ * 功能:基类的抽取
+ */
 public abstract class BaseActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {

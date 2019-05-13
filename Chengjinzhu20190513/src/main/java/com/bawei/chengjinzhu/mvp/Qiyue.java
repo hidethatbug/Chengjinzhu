@@ -6,6 +6,7 @@ package com.bawei.chengjinzhu.mvp;
 public interface Qiyue {
     //M层
     public interface QModol{
+        void GetData(String s);
 
     }
     //V层

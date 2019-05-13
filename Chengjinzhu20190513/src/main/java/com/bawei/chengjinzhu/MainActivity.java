@@ -1,8 +1,6 @@
 package com.bawei.chengjinzhu;
 
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-
+import com.bawei.chengjinzhu.base.BaseActivity;
 import com.bawei.chengjinzhu.mvp.Qiyue;
 /*作者:程金柱
  *时间:2019年5月13日09:20:27
