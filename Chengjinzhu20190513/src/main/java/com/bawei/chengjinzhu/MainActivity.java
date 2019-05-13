@@ -10,7 +10,7 @@ import com.bawei.chengjinzhu.mvp.Qiyue;
  */
 public class MainActivity extends BaseActivity implements Qiyue.QView {
 
-
+//分支
     @Override
     public int BindView() {
         return R.layout.activity_main;
